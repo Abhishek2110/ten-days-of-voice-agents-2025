@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-11-23T08:26:35.929748+00:00",
+    "mood_label": "tired and drained",
+    "mood_score_1_to_5": 2,
+    "energy_description": "very low",
+    "stressors": "not meeting protein intake and incomplete tasks from yesterday",
+    "objectives": [
+      "get some rest",
+      "complete protein intake",
+      "work on assigned tasks"
+    ],
+    "agent_summary": "Abhishek is feeling tired and low energy due to incomplete tasks and protein intake yesterday. Plans to rest, focus on protein, and start tasks today."
+  },
+  {
+    "timestamp": "2025-11-24T08:58:23.272383+00:00",
+    "mood_label": "fine",
+    "mood_score_1_to_5": 4,
+    "energy_description": "high",
+    "stressors": "None",
+    "objectives": [
+      "revise Python programming concepts",
+      "get good quality sleep"
+    ],
+    "agent_summary": "Abhishek is feeling fine with high energy today, motivated by yesterday's successful tasks. His goals are to revise Python concepts and get good quality sleep for recovery."
+  }
+]
