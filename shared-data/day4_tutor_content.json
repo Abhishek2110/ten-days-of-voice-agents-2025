@@ -1,0 +1,20 @@
+[
+  {
+    "id": "functions",
+    "title": "Functions",
+    "summary": "A function is a reusable block of code that performs a specific task. Instead of repeating code, you define a function once and call it whenever needed. Functions help keep programs clean, organized, and modular.",
+    "sample_question": "What is a function and why do we use it in programming?"
+  },
+  {
+    "id": "conditions",
+    "title": "Conditional Statements",
+    "summary": "Conditional statements like if, else, and elif help programs make decisions. They run different blocks of code depending on whether a condition is true or false. This makes programs dynamic and responsive.",
+    "sample_question": "What is an if–else statement? Explain how it helps a program make decisions."
+  },
+  {
+    "id": "lists",
+    "title": "Lists",
+    "summary": "A list is a collection of values stored in a single variable. Items remain in order and can be accessed using index numbers. Lists are useful for storing related data like marks, names, or items in a cart.",
+    "sample_question": "What is a list, and how do you access elements using indexes?"
+  }
+]
