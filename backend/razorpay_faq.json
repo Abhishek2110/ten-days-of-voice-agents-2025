@@ -1,0 +1,52 @@
+{
+  "company": "Razorpay",
+  "about": "Razorpay is a full-stack payments and banking platform for Indian businesses. It enables businesses to accept online payments, automate payouts, and manage financial operations.",
+  "products": {
+    "payment_gateway": "Accept payments via UPI, cards, netbanking, EMI, wallets, and more.",
+    "razorpayx": "Business banking platform for payouts, vendor payments, payroll and current accounts.",
+    "subscriptions": "Automated recurring billing for SaaS and subscription products.",
+    "payment_links": "Create and share payment links without a website.",
+    "payment_pages": "Custom no-code checkout pages.",
+    "smart_collect": "Virtual accounts and UPI IDs for automated reconciliation.",
+    "payouts": "Send instant payouts at scale to customers, vendors, or employees.",
+    "capital": "Short-term credit and working capital loans for businesses."
+  },
+  "pricing": {
+    "payment_gateway": {
+      "upi": "0% per transaction",
+      "cards": "2% per transaction",
+      "international_cards": "3% per transaction",
+      "amex": "3% per transaction",
+      "gst": "Additional 18% GST applicable"
+    },
+    "subscriptions": "Starts at 2% per recurring charge",
+    "payouts": "Starts at ₹3 per payout",
+    "razorpayx": "Custom pricing depending on usage"
+  },
+  "faq": [
+    {
+      "q": "What does Razorpay do?",
+      "a": "Razorpay is a full-stack payment and banking platform that lets businesses accept payments, automate payouts, manage subscriptions, and handle financial operations."
+    },
+    {
+      "q": "Do you have a free tier?",
+      "a": "There is no fixed free tier, but UPI payments are 0 percent fees. You only pay for transactions or specific products you use."
+    },
+    {
+      "q": "Who is Razorpay for?",
+      "a": "Razorpay is for Indian businesses of all sizes: startups, enterprises, D2C brands, SaaS platforms, e-commerce sellers, and freelancers."
+    },
+    {
+      "q": "Does Razorpay support international payments?",
+      "a": "Yes, Razorpay supports international cards and multi-currency payments."
+    },
+    {
+      "q": "How long does settlement take?",
+      "a": "Standard settlements take T plus 2 working days. Instant settlement is available at extra charges."
+    },
+    {
+      "q": "Does Razorpay provide GST invoices?",
+      "a": "Yes, Razorpay provides automated GST-compliant invoices."
+    }
+  ]
+}
