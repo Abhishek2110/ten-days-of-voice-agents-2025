@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Abhishek",
+    "company": "Quick Basket",
+    "email": "abhishek@quickbasket.in",
+    "role": "Chief Strategy Officer",
+    "use_case": "Payment gateway for online marketplace checkout",
+    "team_size": "20",
+    "timeline": "One month",
+    "notes": "Looking for a payment gateway for an online marketplace checkout, targeting go-live in one month."
+  }
+]
