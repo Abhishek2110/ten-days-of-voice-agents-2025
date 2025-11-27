@@ -134,7 +134,7 @@ export default async function Image() {
   // logo
   const { base64: logoSrcBase64, dimensions: logoDimensions } = await getImageData(
     logoUri,
-    'public/lk-logo-dark.svg'
+    'public/2.png'
   );
   const logoSize = scaleImageSize(logoDimensions, 24);
 

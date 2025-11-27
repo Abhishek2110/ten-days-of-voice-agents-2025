@@ -15,7 +15,7 @@ export default async function Layout({ children }: LayoutProps) {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://livekit.io"
+          href="https://www.au.bank.in/?utm_source=branch_locator&utm_medium=brand_website"
           className="scale-100 transition-transform duration-300 hover:scale-110"
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -24,18 +24,18 @@ export default async function Layout({ children }: LayoutProps) {
           <img
             src={logoDark ?? logo}
             alt={`${companyName} Logo`}
-            className="hidden size-6 dark:block"
+            className="hidden size-6 w-12 dark:block"
           />
         </a>
         <span className="text-foreground font-mono text-xs font-bold tracking-wider uppercase">
-          Built with{' '}
+          Built by{' '}
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://docs.livekit.io/agents"
+            href="https://www.au.bank.in/?utm_source=branch_locator&utm_medium=brand_website"
             className="underline underline-offset-4"
           >
-            LiveKit Agents
+            AU Small Finance Bank
           </a>
         </span>
       </header>
