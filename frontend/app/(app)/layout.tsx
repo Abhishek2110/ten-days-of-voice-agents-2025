@@ -15,7 +15,7 @@ export default async function Layout({ children }: LayoutProps) {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://livekit.io"
+          href="https://www.flipkart.com"
           className="scale-100 transition-transform duration-300 hover:scale-110"
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -28,14 +28,14 @@ export default async function Layout({ children }: LayoutProps) {
           />
         </a>
         <span className="text-foreground font-mono text-xs font-bold tracking-wider uppercase">
-          Built with{' '}
+          Built by{' '}
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://docs.livekit.io/agents"
+            href="https://www.flipkart.com"
             className="underline underline-offset-4"
           >
-            LiveKit Agents
+            FLIPKART
           </a>
         </span>
       </header>
