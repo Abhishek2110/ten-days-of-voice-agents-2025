@@ -1,0 +1,29 @@
+{
+  "order_id": "QB-1764324509",
+  "timestamp": "2025-11-28T15:38:29.423626",
+  "status": "Order Placed",
+  "customer": {
+    "name": "Abhishek",
+    "delivery_address": "Sarjapur, Bangalore"
+  },
+  "items": [
+    {
+      "id": "bread_wheat_400g",
+      "name": "Whole Wheat Bread",
+      "category": "groceries",
+      "unit_price": 45.0,
+      "quantity": 1,
+      "line_total": 45.0
+    },
+    {
+      "id": "cheese_mozzarella_200g",
+      "name": "Mozzarella Cheese",
+      "category": "groceries",
+      "unit_price": 180.0,
+      "quantity": 1,
+      "line_total": 180.0
+    }
+  ],
+  "total_amount": 225.0,
+  "currency": "INR"
+}
