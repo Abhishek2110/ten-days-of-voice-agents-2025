@@ -1,0 +1,101 @@
+[
+  {
+    "id": "bread_wheat_400g",
+    "name": "Whole Wheat Bread",
+    "category": "groceries",
+    "price": 45.0,
+    "brand": "FreshBake",
+    "size": "400g",
+    "tags": ["vegan"]
+  },
+  {
+    "id": "milk_toned_1l",
+    "name": "Toned Milk",
+    "category": "groceries",
+    "price": 60.0,
+    "brand": "DailyDairy",
+    "size": "1L",
+    "tags": ["vegetarian"]
+  },
+  {
+    "id": "eggs_regular_6",
+    "name": "Farm Eggs - Pack of 6",
+    "category": "groceries",
+    "price": 75.0,
+    "brand": "HappyHen",
+    "size": "6 pcs",
+    "tags": ["non-veg"]
+  },
+  {
+    "id": "peanut_butter_500g",
+    "name": "Peanut Butter - Creamy",
+    "category": "groceries",
+    "price": 210.0,
+    "brand": "NuttySpread",
+    "size": "500g",
+    "tags": ["vegetarian", "high-protein"]
+  },
+  {
+    "id": "pasta_penne_500g",
+    "name": "Durum Wheat Penne Pasta",
+    "category": "groceries",
+    "price": 120.0,
+    "brand": "PastaRoma",
+    "size": "500g",
+    "tags": ["vegetarian"]
+  },
+  {
+    "id": "pasta_sauce_tomato_350g",
+    "name": "Tomato Basil Pasta Sauce",
+    "category": "groceries",
+    "price": 150.0,
+    "brand": "Saucy",
+    "size": "350g",
+    "tags": ["vegetarian"]
+  },
+  {
+    "id": "cheese_mozzarella_200g",
+    "name": "Mozzarella Cheese",
+    "category": "groceries",
+    "price": 180.0,
+    "brand": "Cheezy",
+    "size": "200g",
+    "tags": ["vegetarian"]
+  },
+  {
+    "id": "snacks_chips_masala_100g",
+    "name": "Masala Potato Chips",
+    "category": "snacks",
+    "price": 35.0,
+    "brand": "CrispyBite",
+    "size": "100g",
+    "tags": ["vegetarian"]
+  },
+  {
+    "id": "snacks_biscuits_dig_200g",
+    "name": "Digestive Biscuits",
+    "category": "snacks",
+    "price": 40.0,
+    "brand": "GoodGrain",
+    "size": "200g",
+    "tags": ["vegetarian", "high-fibre"]
+  },
+  {
+    "id": "prepared_margherita_pizza",
+    "name": "Margherita Pizza (Frozen)",
+    "category": "prepared_food",
+    "price": 299.0,
+    "brand": "Heat&Eat",
+    "size": "9 inch",
+    "tags": ["vegetarian"]
+  },
+  {
+    "id": "prepared_veg_sandwich",
+    "name": "Veg Grilled Sandwich",
+    "category": "prepared_food",
+    "price": 149.0,
+    "brand": "CafeQuick",
+    "size": "1 serving",
+    "tags": ["vegetarian"]
+  }
+]
