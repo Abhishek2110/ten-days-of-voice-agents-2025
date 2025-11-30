@@ -1,0 +1,54 @@
+[
+  {
+    "id": "order-d83308f5",
+    "items": [
+      {
+        "product_id": "mug-001",
+        "name": "Stoneware Chai Mug",
+        "unit_price": 299,
+        "quantity": 1,
+        "line_total": 299,
+        "attrs": {}
+      },
+      {
+        "product_id": "tee-004",
+        "name": "Premium Polo Tee",
+        "unit_price": 999,
+        "quantity": 1,
+        "line_total": 999,
+        "attrs": {
+          "size": "M"
+        }
+      },
+      {
+        "product_id": "hoodie-001",
+        "name": "Cozy Hoodie",
+        "unit_price": 1499,
+        "quantity": 1,
+        "line_total": 1499,
+        "attrs": {
+          "size": "M"
+        }
+      },
+      {
+        "product_id": "laptop-001",
+        "name": "MacBook Air M2",
+        "unit_price": 99900,
+        "quantity": 1,
+        "line_total": 99900,
+        "attrs": {}
+      },
+      {
+        "product_id": "phone-004",
+        "name": "iPhone 14",
+        "unit_price": 79999,
+        "quantity": 1,
+        "line_total": 79999,
+        "attrs": {}
+      }
+    ],
+    "total": 182696,
+    "currency": "INR",
+    "created_at": "2025-11-30T10:08:48.765809Z"
+  }
+]
