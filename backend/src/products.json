@@ -1,0 +1,232 @@
+[
+    {
+        "id": "mug-001",
+        "name": "Stoneware Chai Mug",
+        "description": "Hand-glazed ceramic mug perfect for masala chai.",
+        "price": 299,
+        "currency": "INR",
+        "category": "mug",
+        "color": "blue",
+        "sizes": []
+    },
+    {
+        "id": "tee-001",
+        "name": "Pure Cotton Tee",
+        "description": "Comfort-fit cotton t-shirt with subtle logo.",
+        "price": 799,
+        "currency": "INR",
+        "category": "tshirt",
+        "color": "black",
+        "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+        "id": "hoodie-001",
+        "name": "Cozy Hoodie",
+        "description": "Warm pullover hoodie, fleece-lined.",
+        "price": 1499,
+        "currency": "INR",
+        "category": "hoodie",
+        "color": "grey",
+        "sizes": ["M", "L", "XL"]
+    },
+    {
+        "id": "mug-002",
+        "name": "Insulated Travel Mug",
+        "description": "Keeps chai warm on your way to work.",
+        "price": 599,
+        "currency": "INR",
+        "category": "mug",
+        "color": "white",
+        "sizes": []
+    },
+    {
+        "id": "hoodie-002",
+        "name": "Black Zip Hoodie",
+        "description": "Lightweight zip-up hoodie, black.",
+        "price": 1299,
+        "currency": "INR",
+        "category": "hoodie",
+        "color": "black",
+        "sizes": ["S", "M", "L"]
+    },
+    {
+        "id": "tee-002",
+        "name": "Casual Cotton Tee",
+        "description": "Everyday cotton t-shirt, breathable and soft.",
+        "price": 299,
+        "currency": "INR",
+        "category": "tshirt",
+        "color": "white",
+        "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+        "id": "tee-003",
+        "name": "Graphic Tee",
+        "description": "Printed graphic t-shirt with vibrant design.",
+        "price": 499,
+        "currency": "INR",
+        "category": "tshirt",
+        "color": "navy",
+        "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+        "id": "tee-004",
+        "name": "Premium Polo Tee",
+        "description": "Polo-style t-shirt with premium stitching.",
+        "price": 999,
+        "currency": "INR",
+        "category": "tshirt",
+        "color": "maroon",
+        "sizes": ["M", "L", "XL"]
+    },
+    {
+        "id": "tee-005",
+        "name": "Summer V-neck Tee",
+        "description": "Lightweight V-neck tee for hot days.",
+        "price": 350,
+        "currency": "INR",
+        "category": "tshirt",
+        "color": "sky",
+        "sizes": ["S", "M", "L"]
+    },
+    {
+        "id": "tee-006",
+        "name": "Henley Tee",
+        "description": "Smart casual henley style t-shirt.",
+        "price": 699,
+        "currency": "INR",
+        "category": "tshirt",
+        "color": "olive",
+        "sizes": ["M", "L", "XL"]
+    },
+    {
+        "id": "rain-001",
+        "name": "Light Raincoat",
+        "description": "Waterproof light raincoat, packable.",
+        "price": 1299,
+        "currency": "INR",
+        "category": "raincoat",
+        "color": "yellow",
+        "sizes": ["M", "L", "XL"]
+    },
+    {
+        "id": "rain-002",
+        "name": "Heavy Duty Raincoat",
+        "description": "Heavy-duty rainproof coat for monsoon.",
+        "price": 2499,
+        "currency": "INR",
+        "category": "raincoat",
+        "color": "navy",
+        "sizes": ["L", "XL"]
+    },
+    {
+        "id": "laptop-001",
+        "name": "Generic Laptop (50k)",
+        "description": "A reliable laptop suitable for everyday use.",
+        "price": 50000,
+        "currency": "INR",
+        "category": "laptop",
+        "color": "silver",
+        "sizes": []
+    },
+    {
+        "id": "laptop-002",
+        "name": "Dell Inspiron (Budget)",
+        "description": "Compact Dell laptop for students and professionals.",
+        "price": 27800,
+        "currency": "INR",
+        "category": "laptop",
+        "color": "black",
+        "sizes": []
+    },
+    {
+        "id": "laptop-003",
+        "name": "Lenovo ThinkPad",
+        "description": "Durable Lenovo laptop with strong performance.",
+        "price": 60000,
+        "currency": "INR",
+        "category": "laptop",
+        "color": "black",
+        "sizes": []
+    },
+    {
+        "id": "laptop-004",
+        "name": "HP Pavilion",
+        "description": "High-performance HP laptop for creators.",
+        "price": 100000,
+        "currency": "INR",
+        "category": "laptop",
+        "color": "silver",
+        "sizes": []
+    },
+    {
+        "id": "storage-001",
+        "name": "External Hard Disk 1TB",
+        "description": "Portable external hard disk for backups.",
+        "price": 50000,
+        "currency": "INR",
+        "category": "storage",
+        "color": "black",
+        "sizes": []
+    },
+    {
+        "id": "phone-001",
+        "name": "Redmi Note (Entry)",
+        "description": "Affordable Redmi smartphone with solid features.",
+        "price": 12000,
+        "currency": "INR",
+        "category": "mobile",
+        "color": "blue",
+        "sizes": []
+    },
+    {
+        "id": "phone-002",
+        "name": "Oppo A-Series",
+        "description": "Stylish Oppo phone with good camera.",
+        "price": 18000,
+        "currency": "INR",
+        "category": "mobile",
+        "color": "green",
+        "sizes": []
+    },
+    {
+        "id": "phone-003",
+        "name": "Samsung M-Series",
+        "description": "Mid-range Samsung phone for everyday use.",
+        "price": 25000,
+        "currency": "INR",
+        "category": "mobile",
+        "color": "black",
+        "sizes": []
+    },
+    {
+        "id": "phone-004",
+        "name": "iPhone (Standard)",
+        "description": "Apple iPhone model example (price varies by config).",
+        "price": 50000,
+        "currency": "INR",
+        "category": "mobile",
+        "color": "white",
+        "sizes": []
+    },
+    {
+        "id": "phone-005",
+        "name": "Oppo Reno",
+        "description": "Higher-end Oppo phone with premium features.",
+        "price": 35000,
+        "currency": "INR",
+        "category": "mobile",
+        "color": "black",
+        "sizes": []
+    },
+    {
+        "id": "phone-006",
+        "name": "Redmi Pro",
+        "description": "Redmi higher-tier phone with improved camera and battery.",
+        "price": 22000,
+        "currency": "INR",
+        "category": "mobile",
+        "color": "grey",
+        "sizes": []
+    }
+]
